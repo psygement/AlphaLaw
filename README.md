@@ -1,1 +1,1 @@
-# alpha_law
+# AlphaLaw
