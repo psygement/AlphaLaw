@@ -15,6 +15,7 @@
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |  10/25  | (참고) What is Computational Legal Studies?  | 김무성  | [참고자료](http://www.slideshare.net/Danielkatz/what-is-computational-legal-studies-presentation-university-of-houston-workshop-on-law-computation)                              |
+|   |        | (참고) Hybrid computing using a neural network with dynamic external memory | 김무성 | [참고자료](http://nbviewer.jupyter.org/github/psygrammer/hai/blob/master/part1/deepmind/DNC/Hybrid_computing_using_a_neural_network_with_dynamic_external_memory.ipynb) |
 |   |        | (법)제1강: 민법총칙 Ⅰ (1) | 김무성 |                                |
 |   |        | (법NLP)Legal Language and Legal Knowledge Management Applications | 김무성  | [발표자료]()  |
 |   |        | (딥paper) Gov2Vec: Learning Distributed Representations of Institutions and Their Legal Text | 김무성 | [발표자료]()|
