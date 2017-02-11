@@ -23,12 +23,12 @@
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 | 2/7   | (법)제3강: 민법총칙Ⅲ |  |                           |
 |   |    | (딥NLP) Simple Word Vector Representations  |  김무성 |                           |
-| 2 |    | (법)  |  |                 | |
+| 2 |    | (법)제4강: 민법총칙Ⅳ  |  |                 | |
 |   |    | (딥NLP) Advanced Word Vector Representations  |   |                           |
 |   |    | (딥NLP) CS224N Research Highlight: A Simple but Tough-to-beat Baselinefor Sentence Embeddings  |  김무성 |                        |
-| 3 |    | (법)  |  |                           |
+| 3 |    | (법)제5강: 채권Ⅰ  |  |                           |
 |   |    | (딥NLP) Word Window Classification and Neural Networks | 허태호 |                           |
-| 4 |    | ()  |  |                           |
+| 4 |    | (법)제6강: 채권ⅠⅠ  |  |                           |
 |   |    | (딥NLP) Project Advice, Neural Net Details and Practical Tips | |                           |
 
 <b>PART I (완료)</b>
