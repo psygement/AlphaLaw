@@ -38,7 +38,10 @@
 |   |        | (법NLP)Legal Language and Legal Knowledge Management Applications | 김무성  | [발표자료](http://nbviewer.jupyter.org/github/psygement/AlphaLaw/blob/master/part1/lawNLP/ch01/Legal_Language_and_Legal_Knowledge_Management_Applications.ipynb)  |
 |   |        | (딥paper) Gov2Vec: Learning Distributed Representations of Institutions and Their Legal Text | 김무성 | [발표자료]()|
 |   |        | (실습) 실습 데이터 탐색 & 확정 (법률텍스트 공개 데이터) |  | [참고자료](http://nbviewer.jupyter.org/github/psygement/AlphaLaw/blob/master/part1/deep-paper/Gov2Vec/Gov2Vec-Learning_Distributed_Representations_of_Institutions_and_Their_Legal_Text.ipynb) |
-| 2 |    |  |  |                           |
-| 3 |    |  |  |                           |
+| 2 | 11월 8일   | (법NLP)Named Entity Recognition and Resolution in Legal Text | 윤정아 |                   |
+|   |    | (실습) 법률 코퍼스 구축 실습 (1) - 크롤링 & 품사태깅  | 김준민  |   | 
+|   |    | (법보강) 법률 텍스트 종류과 구조의 이해 | 고재선 |          |
+| 3 |    | 제2강: 민법총칙Ⅱ |  |                           |
+|   |    | 법률 코퍼스 구축 실습 (2) - Word2Vec | 고재선 |                           |
 | 4 |    |  |  |                           |
 
