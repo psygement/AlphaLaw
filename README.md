@@ -25,8 +25,7 @@
 |   |    | (딥NLP) Simple Word Vector Representations  |  김무성 |                           |
 | 2 |    | (법)  |  |                 | |
 |   |    | (딥NLP) Advanced Word Vector Representations  |   |                           |
-|   |    | (딥NLP) CS224N Research Highlight: A Simple but Tough-to-beat Baseline
-for Sentence Embeddings  |  김무성 |                           |
+|   |    | (딥NLP) CS224N Research Highlight: A Simple but Tough-to-beat Baselinefor Sentence Embeddings  |  김무성 |                        |
 | 3 |    | (법)  |  |                           |
 |   |    | (딥NLP) Word Window Classification and Neural Networks | 허태호 |                           |
 | 4 |    | ()  |  |                           |
