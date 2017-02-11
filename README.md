@@ -21,10 +21,16 @@
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 |    |  |  |                           |
-| 2 |    |  |  |                           |
-| 3 |    |  |  |                           |
-| 4 |    |  |  |                           |
+| 1 | 2/7   | (법)제3강: 민법총칙Ⅲ |  |                           |
+|   |    | (딥NLP) Simple Word Vector Representations  |  김무성 |                           |
+| 2 |    | (법)  |  |                 | |
+|   |    | (딥NLP) Advanced Word Vector Representations  |   |                           |
+|   |    | (딥NLP) CS224N Research Highlight: A Simple but Tough-to-beat Baseline
+for Sentence Embeddings  |  김무성 |                           |
+| 3 |    | (법)  |  |                           |
+|   |    | (딥NLP) Word Window Classification and Neural Networks | 허태호 |                           |
+| 4 |    | ()  |  |                           |
+|   |    | (딥NLP) Project Advice, Neural Net Details and Practical Tips | |                           |
 
 <b>PART I (완료)</b>
 
@@ -41,7 +47,7 @@
 | 2 | 11월 8일   | (법NLP)Named Entity Recognition and Resolution in Legal Text | 윤정아 |                   |
 |   |    | (실습) 법률 코퍼스 구축 실습 (1) - 크롤링 & 품사태깅  | 김준민  |   | 
 |   |    | (법보강) 법률 텍스트 종류과 구조의 이해 | 고재선 |          |
-| 3 | 11월 22일   | 제2강: 민법총칙Ⅱ |  |                           |
+| 3 | 11월 22일   | 제2강: 민법총칙Ⅱ |   |                           |
 |   |    | 법률 코퍼스 구축 실습 (2) - Word2Vec | 고재선 |                           |
 | 4 | 12월 6일   |  | 김무성  |                           |
 |  |    |  |  |                           |
