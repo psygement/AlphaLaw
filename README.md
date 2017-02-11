@@ -1,18 +1,22 @@
 # AlphaLaw
 
+# 스터디 진행 그룹
+* 싸이지먼트 - https://www.facebook.com/groups/psygement/
+* 바벨피쉬 - https://www.facebook.com/groups/babelPish/
+
 # 교재
 * PART I
   * (법) K-MOOC 민법학입문 - http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_001+2016_A07/about
   * (법NLP) Semantic Processing of Legal Texts - https://www.amazon.com/Semantic-Processing-Legal-Texts-Language/dp/364212836X/
   * (딥러닝Paper)
 
-'(법)민법학입문'의 경우, 자료 링크를 걸지 않습니다. 직접 해당 강좌를 수강해서 자료를 참조하세요. 
+(법)민법학입문'의 경우, 자료 링크를 걸지 않습니다. 직접 해당 강좌를 수강해서 자료를 참조하세요. 
 
 * PART II
   * (법) K-MOOC 민법학입문 - http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_001+2016_A07/about
-  * (딥러닝NLP) CS224n: Natural Language Processing with Deep Learning - https://web.stanford.edu/class/cs224n/
+  * (딥러닝NLP) CS224n: Natural Language Processing with Deep Learning - https://web.stanford.edu/class/cs224n/
 
-'(법)민법학입문'과 (딥러닝NLP) 모두 본 강의 있으므로 자료 링크를 걸지 않습니다. 직접 해당 강좌를 수강해서 자료를 참조하세요. 
+(법)민법학입문'과 (딥러닝NLP) 모두 본 강의 있으므로 자료 링크를 걸지 않습니다. 직접 해당 강좌를 수강해서 자료를 참조하세요. 
 
 # 커리큘럼
 
